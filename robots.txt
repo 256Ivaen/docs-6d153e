@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-uoxg0h.indocuan.space/sitemap.xml
